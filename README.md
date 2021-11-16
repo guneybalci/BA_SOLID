@@ -9,4 +9,4 @@ L Liskov substitution principle (LSP)
 
 I interface segregation principle (ISP)
 
-D Dependency Iversion principle (DIP)
+D Dependency Inversion principle (DIP)
